@@ -1,7 +1,7 @@
 <div align="center">
   <img src="assets/Echo-new.png" alt="Echo Music Logo" width="120"/>
 
-  <h1>Echo Music</h1>
+  <h1>My Music App</h1>
 
   <p><b>A modern Android music app with ad-free streaming, synced lyrics, offline playback, and an intuitive user experience.</b></p>
 </div>
